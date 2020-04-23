@@ -1,0 +1,32 @@
+1.Place Project folder to in C:\ and don't change the folder name.
+
+2.Install GNS3
+
+C:\SecurityEnhancementsUsingRoutersAndSwitches\soft\GNS3-0.6-win32-all-in-one.exe
+
+3.Go to the folder open source.net file
+
+C:\SecurityEnhancementsUsingRoutersAndSwitches\source\source.net
+
+4.start all the routers
+
+5.Go to 
+C:\SecurityEnhancementsUsingRoutersAndSwitches\soft\vpcs-0.16a\vpcs.exe
+
+6.ping 192.168.2.243,
+  ping 192.168.1.235 ping successful
+
+list avalible IPS are
+192.168.1.1, 192.168.1.2,192.168.2.1,192.168.2.2,
+192.168.1.65,192.168.1.129,192.168.1.194,192.168.1.225,
+192.168.1.233,192.168.1.241.
+
+similaryly 192.168.2.ipnumber
+
+Some of the videos i have created in the folder
+c:\SecurityEnhancementsUsingRoutersAndSwitches\videos
+
+the videos are
+	1. How to run the project
+	2. How to capture
+	3. How to run vpc etc

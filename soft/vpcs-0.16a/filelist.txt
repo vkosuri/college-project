@@ -1,0 +1,11 @@
+VPCS package file list and md5
+
+1. vpcs           d7c9ee1d708e9ffd407a8b8e2370c0f6   prg under linux
+2. vpcs.osx       19f13a8d3fe53b8af73e4b6c58d80ecf   prg under OS X
+3. vpcs.exe       4480765362580313783358886f5d1ef5   prg under windows
+4. cygwin1.dll    47b61abc1faf7fd2ebae5f5f49358b9b   dll under windows
+5. ex.sh                                             test script under linux (or OS X)
+6. startup.vpc                                       startup file
+7. readme_cn.txt
+8. readme.txt
+9. filelist.txt
